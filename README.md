@@ -1,21 +1,14 @@
-# StoryBook Forum
+# Traveller's Blog
 
-A forum-like web app where you can post stories and other people can add on to the story.
+A web app where you can post one-liners/ details about amazing travel experiences yiu have had. 
 
 ## Built in
 
-1. React.js
-2. MongoDB
-3. Express
-4. Node
-5. Passport for authentication
 
-## Team members
 
-1. Chris Rogers - Back-end
-2. Lauren Tejada - Front-end
-3. Audra Mook - Front-end 
+1. Node
+2. Passport for authentication
+3. React.js
+4. MongoDB
+5. Express
 
-![site](/images/screen1.JPG)
-![site](/images/screen2.JPG)
-![site](/images/screen3.JPG)
