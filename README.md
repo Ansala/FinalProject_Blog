@@ -1,6 +1,6 @@
 # Traveller's Blog
 
-A web app where you can post one-liners/ details about amazing travel experiences yiu have had. 
+A web app where you can post one-liners/ details about amazing travel experiences you have had. 
 
 ## Built in
 
