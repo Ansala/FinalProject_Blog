@@ -1,0 +1,38 @@
+.App{
+    background-color: rgb(187, 150, 185);
+}
+ul {
+    background-color: rgb(187, 150, 185);
+}
+
+li {
+    border:black;
+}
+
+.card-body {
+    background-color: ghostwhite;
+}
+
+.card-header {
+    background-color: darkred;
+    border-bottom-color:ghostwhite;
+}
+
+.card.border-info {
+    border-bottom-color: black;
+}
+
+.btn {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: ghostwhite;
+}
+
+#alltron {
+    background-image: url("../images/all.jpeg");
+    background-size: cover;
+    background-position: 50% 600%;
+    text-shadow: black 0.1em 0.1em 0.1em;
+}
+
+
+
